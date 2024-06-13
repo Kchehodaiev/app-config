@@ -1,2 +1,2 @@
 # app-config
-Config of sftp server 
+Config of nas server 
